@@ -214,3 +214,5 @@ Laptop
 Mobile Phone
 ↓
 Smart TV
+
+Try drawing this network on paper.
